@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rishabh2005](https://github.com/rishabh2005)
+- 👨‍💻 All of my projects are available here
 
 - 📫 How to reach me **rishabhgupta4523@gmail.com**
 
